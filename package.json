@@ -1,0 +1,15 @@
+{
+  "name": "telegram_bot_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kemarskiy Nikita",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
